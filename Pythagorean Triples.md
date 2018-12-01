@@ -19,4 +19,4 @@
 
 <img src="https://latex.codecogs.com/gif.latex?k=\frac{n^2}{4}&plus;1&space;,m=k-2&space;\mapsto&space;m=\frac{n^2}{4}-1" title="k=\frac{n^2}{4}+1 ,m=k-2 \mapsto m=\frac{n^2}{4}-1" />
 
-[My Solution ](codeforces.com/contest/707/submission/46439117)
+[My Solution ](http://codeforces.com/contest/707/submission/46439117)
