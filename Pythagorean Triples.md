@@ -18,3 +18,5 @@
 <img src="https://latex.codecogs.com/gif.latex?(k&plus;m)=\frac{n^2}{2}&space;,&space;(k-m)=2" title="(k+m)=\frac{n^2}{2} , (k-m)=2" />
 
 <img src="https://latex.codecogs.com/gif.latex?k=\frac{n^2}{4}&plus;1&space;,m=k-2&space;\mapsto&space;m=\frac{n^2}{4}-1" title="k=\frac{n^2}{4}+1 ,m=k-2 \mapsto m=\frac{n^2}{4}-1" />
+
+[My Solution ](codeforces.com/contest/707/submission/46439117)
