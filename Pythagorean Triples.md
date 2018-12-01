@@ -11,7 +11,7 @@
   
   <img src="https://latex.codecogs.com/gif.latex?k=\frac{n^2&space;&plus;1&space;}{2}&space;,&space;m=\frac{n^2-1}{2}" title="k=\frac{n^2 +1 }{2} , m=\frac{n^2-1}{2}" />
   
-  but if n is odd number (k And m) will be fraction . 
+  but if n is even number (k And m) will be fraction . 
   
 <img src="https://latex.codecogs.com/gif.latex?(k&plus;m)\times&space;(k-m)=\frac{n^2}{2}&space;\times&space;2" title="(k+m)\times (k-m)=\frac{n^2}{2} \times 2" />
 
