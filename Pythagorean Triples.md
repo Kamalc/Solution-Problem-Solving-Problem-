@@ -9,8 +9,8 @@
   
   <img src="https://latex.codecogs.com/gif.latex?k&plus;m=n^2&space;," title="k+m=n^2 ," /><img src="https://latex.codecogs.com/gif.latex?(k-m)=1" title="(k-m)=1" />
   
-  <img src="https://latex.codecogs.com/gif.latex?k=(n^2&space;&plus;1)&space;/2" title="k=(n^2 +1) /2" /> 
-  <img src="https://latex.codecogs.com/gif.latex?m=(n^2&space;-1)&space;/2" title="m=(n^2 -1) /2" />
+  <img src="https://latex.codecogs.com/gif.latex?k=\frac{n^2&space;&plus;1&space;}{2}&space;,&space;m=\frac{n^2-1}{2}" title="k=\frac{n^2 +1 }{2} , m=\frac{n^2-1}{2}" />
+  
   but if n is odd number (k And m) will be fraction . 
   
 <img src="https://latex.codecogs.com/gif.latex?(k&plus;m)*(k-m)=\frac{n^2}{2}&space;*&space;2" title="(k+m)*(k-m)=\frac{n^2}{2} * 2" />
