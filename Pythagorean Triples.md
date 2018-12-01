@@ -1,4 +1,5 @@
-# Pythagorean Triples 
+# Pythagorean Triples  Solution
+### Codeforces Round #368 (Div. 2) Problem C
   <a href="https://www.codecogs.com/eqnedit.php?latex=\because&space;n^{2}&plus;m^{2}=k^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\because&space;n^{2}&plus;m^{2}=k^{2}" title="\because n^{2}+m^{2}=k^{2}" /></a>
   
   <a href="https://www.codecogs.com/eqnedit.php?latex=\therefore&space;n^{2}=k^{2}-m^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\therefore&space;n^{2}=k^{2}-m^{2}" title="\therefore n^{2}=k^{2}-m^{2}" /></a>
@@ -19,4 +20,4 @@
 
 <img src="https://latex.codecogs.com/gif.latex?k=\frac{n^2}{4}&plus;1&space;,m=k-2&space;\mapsto&space;m=\frac{n^2}{4}-1" title="k=\frac{n^2}{4}+1 ,m=k-2 \mapsto m=\frac{n^2}{4}-1" />
 
-[My Solution ](http://codeforces.com/contest/707/submission/46439117)
+[My Solution Code](http://codeforces.com/contest/707/submission/46439117)
